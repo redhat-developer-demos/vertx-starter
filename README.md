@@ -1,5 +1,7 @@
 # vertx-starter
 
+![Coderland logo](images/coderland_logo.png)
+
 ## Overview
 
 This is a simple application to get you started with the Vert.x toolkit. 
@@ -65,8 +67,11 @@ independently of each other.
 
 ## Taking it further
 
-The Red Hat Developer Program has a complete, sophisticated example of a system 
+Check out Coderland's [Reactica roller coaster](https://developers.redhat.com/coderland/reactive)
+to see a complete, sophisticated example of a system 
 of reactive Vert.x microservices that work together to build a web dashboard 
-that reflects what's going on in the system. Check out Coderland's 
-[Reactica roller coaster](https://developers.redhat.com/coderland/reactive) 
-at [https://developers.redhat.com].
+that reflects what's going on in the system. 
+
+This code and the Reactica project are brought to you by your friends at the 
+[Red Hat Developer Program](https://developers.redhat.com). 
+
