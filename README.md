@@ -11,6 +11,13 @@ writes a message to the
 console every two seconds, while the other (`vertx.createHttpServer()`) 
 servers requests on HTTP port 8080. 
 
+## Building and running the code
+
+The following commands build and run the code: 
+
+```mvn clean package
+java -jar target/vertx-starter-1.0-SNAPSHOT.jar```
+
 ## Sample output 
 
 Sample output looks like this: 
