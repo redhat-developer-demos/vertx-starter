@@ -25,7 +25,7 @@ java -jar target/vertx-starter-1.0-SNAPSHOT.jar
 Sample output looks like this: 
 
 ```
-doug@dtidwell-mac:~/maven-vertx$ java -jar target/simple-hello-world-1.0-SNAPSHOT.jar 
+doug@dtidwell-mac:~/vertx-starter $ java -jar target/simple-hello-world-1.0-SNAPSHOT.jar 
 ----------------------------------------------
 ---> Coderland now listening on localhost:8080
 ----------------------------------------------
