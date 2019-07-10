@@ -15,7 +15,8 @@ servers requests on HTTP port 8080.
 
 The following commands build and run the code: 
 
-```mvn clean package
+```
+mvn clean package
 java -jar target/vertx-starter-1.0-SNAPSHOT.jar
 ```
 
