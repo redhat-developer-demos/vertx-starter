@@ -1,6 +1,6 @@
 # vertx-starter
 
-![Coderland logo](images/coderland_logo.png)
+![Coderland logo](images/Coderland_logo.png)
 
 ## Overview
 
