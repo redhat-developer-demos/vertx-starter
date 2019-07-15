@@ -82,6 +82,8 @@ independently of each other.
 
 :page_facing_up: [The Reactive Manifesto](https://www.reactivemanifesto.org/)
 
+:page_facing_up: [The Vert.x home page](https://vertx.io)
+
 ### The Reactica roller coaster
 
 Coderland's [Reactica roller coaster](https://developers.redhat.com/coderland/reactive)
