@@ -13,18 +13,9 @@ servers requests on HTTP port 8080.
 
 ## The code
 
-Here's the complete source code: 
+Here's the heart of the source code: 
 
 ```Java
-package com.redhat.coderland;
-
-import io.vertx.core.AbstractVerticle;
-import io.vertx.core.Vertx;
-
-public class SampleVerticle extends AbstractVerticle {
-    private long startTime = System.currentTimeMillis();
-    private long counter = 1;
-    
     @Override
     public void start() {
         vertx.setPeriodic(2000, counter -> {
@@ -51,12 +42,6 @@ public class SampleVerticle extends AbstractVerticle {
         System.out.println("---> Coderland signing off! Have a great day.");
         System.out.println("---------------------------------------------");
     }
-    
-    public static void main (String[] args) {
-        Vertx vertx = Vertx.vertx();
-        vertx.deployVerticle(new SampleVerticle());
-    }
-}
 ```
 
 ## Building and running the code
