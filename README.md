@@ -82,6 +82,10 @@ of reactive Vert.x microservices that work together.
 
 :gift: [REPO: The Reactica roller coaster](https://github.com/reactica/rhte-demo)
 
+:page_facing_up: [Reactica roller coaster overview](https://developers.redhat.com/coderland/reactive/)
+
+:clapper: [VIDEO: An overview of the Reactica roller coaster](https://youtu.be/)
+
 ### Part 1: An introduction to reactive programming and Vert.x 
 
 :page_facing_up: [ARTICLE: Part 1: An introduction to reactive programming and Vert.x](https://developers.redhat.com/coderland/reactive/reactive-intro)
@@ -112,4 +116,4 @@ of reactive Vert.x microservices that work together.
 
 ***
 
-Coderland :roller_coaster::rocket::ferris_wheel: is an imaginary theme park for learning. developer training and Red Hat software. See [the Red Hat Developer Program](https://developers.redhat.com/) for more great stuff.
+Coderland :roller_coaster::rocket::ferris_wheel: is an imaginary theme park for learning, developer training, and Red Hat software. See [the Red Hat Developer Program](https://developers.redhat.com/) for more great stuff.
