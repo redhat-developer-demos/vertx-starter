@@ -76,7 +76,11 @@ independently of each other.
 
 ## IMPORTANT LINKS
 
-:notebook: 
+:book: Clement Escoffier's excellent book [Building Reactive Microservices in Java](https://developers.redhat.com/books/building-reactive-microservices-java/old/), available for free from [the Red Hat Developer Program](https://developers.redhat.com/)
+
+:page_facing_up: Andre Staltz's [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
+
+:page_facing_up: [The Reactive Manifesto](https://www.reactivemanifesto.org/)
 
 ### The Reactica roller coaster
 
@@ -106,4 +110,4 @@ of reactive Vert.x microservices that work together.
 
 ***
 
-Coderland :roller_coaster::rocket::ferris_wheel: is a place for learning. developer training and Red Hat software. See [the Red Hat Developer Program](https://developers.redhat.com/) for more great stuff.
+Coderland :roller_coaster::rocket::ferris_wheel: is an imaginary theme park for learning. developer training and Red Hat software. See [the Red Hat Developer Program](https://developers.redhat.com/) for more great stuff.
