@@ -80,7 +80,7 @@ Coderland's [Reactica roller coaster](https://developers.redhat.com/coderland/re
 features a complete, sophisticated example of a system 
 of reactive Vert.x microservices that work together. 
 
-:gift: [REPO: The Reactica roller coaster](https://github.com/reactica/rhte-demo)
+:gift: [REPO: The Reactica roller coaster source code](https://github.com/reactica/rhte-demo)
 
 :page_facing_up: [Reactica roller coaster overview](https://developers.redhat.com/coderland/reactive/)
 
