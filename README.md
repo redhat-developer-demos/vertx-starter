@@ -74,17 +74,7 @@ HTTP request comes in on localhost:8080.
 As long as the verticle is running, these two processes operate 
 independently of each other.
 
-## IMPORTANT LINKS
-
-:book: Clement Escoffier's excellent book [Building Reactive Microservices in Java](https://developers.redhat.com/books/building-reactive-microservices-java/old/), available for free from [the Red Hat Developer Program](https://developers.redhat.com/)
-
-:page_facing_up: Andre Staltz's [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
-
-:page_facing_up: [The Reactive Manifesto](https://www.reactivemanifesto.org/)
-
-:page_facing_up: [The Vert.x home page](https://vertx.io)
-
-### The Reactica roller coaster
+## The Reactica roller coaster
 
 Coderland's [Reactica roller coaster](https://developers.redhat.com/coderland/reactive)
 features a complete, sophisticated example of a system 
@@ -109,6 +99,16 @@ of reactive Vert.x microservices that work together.
 :page_facing_up: [ARTICLE: Part 3: A reactive system in action](https://developers.redhat.com/coderland/reactive/reactive-system-in-action/)
 
 :clapper: [VIDEO: Part 3: A reactive system in action](https://youtu.be/)
+
+## Other useful links
+
+:book: Clement Escoffier's excellent book [Building Reactive Microservices in Java](https://developers.redhat.com/books/building-reactive-microservices-java/old/), available for free from [the Red Hat Developer Program](https://developers.redhat.com/)
+
+:page_facing_up: Andre Staltz's [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
+
+:page_facing_up: [The Reactive Manifesto](https://www.reactivemanifesto.org/)
+
+:page_facing_up: [The Vert.x home page](https://vertx.io)
 
 ***
 
