@@ -74,13 +74,36 @@ HTTP request comes in on localhost:8080.
 As long as the verticle is running, these two processes operate 
 independently of each other.
 
-## Taking it further
+## IMPORTANT LINKS
 
-Check out Coderland's [Reactica roller coaster](https://developers.redhat.com/coderland/reactive)
-to see a complete, sophisticated example of a system 
-of reactive Vert.x microservices that work together to build a web dashboard 
-that reflects what's going on in the system. 
+:notebook: 
 
-This code and the Reactica project are brought to you by your friends at the 
-[Red Hat Developer Program](https://developers.redhat.com). 
+### The Reactica roller coaster
 
+Coderland's [Reactica roller coaster](https://developers.redhat.com/coderland/reactive)
+features a complete, sophisticated example of a system 
+of reactive Vert.x microservices that work together. 
+
+:gift: [REPO: The Reactica roller coaster](https://github.com/reactica/rhte-demo)
+
+### Part 1: An introduction to reactive programming and Vert.x 
+
+:page_facing_up: [ARTICLE: Part 1: An introduction to reactive programming and Vert.x](https://developers.redhat.com/coderland/reactive/reactive-intro)
+
+:clapper: [VIDEO: Part 1: An introduction to reactive programming and Vert.x](https://youtu.be/)
+
+### Part 2: Building a reactive system
+
+:page_facing_up: [ARTICLE: Part 2: Building a reactive system](https://developers.redhat.com/coderland/reactive/building-a-reactive-system/)
+
+:clapper: [VIDEO: Part 2: Building a reactive system](https://youtu.be/)
+
+### Part 3: A reactive system in action
+
+:page_facing_up: [ARTICLE: Part 3: A reactive system in action](https://developers.redhat.com/coderland/reactive/reactive-system-in-action/)
+
+:clapper: [VIDEO: Part 3: A reactive system in action](https://youtu.be/)
+
+***
+
+Coderland :roller_coaster::rocket::ferris_wheel: is a place for learning. developer training and Red Hat software. See [the Red Hat Developer Program](https://developers.redhat.com/) for more great stuff.
