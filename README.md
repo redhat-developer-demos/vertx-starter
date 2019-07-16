@@ -5,11 +5,11 @@
 ## Overview
 
 This is a simple application to get you started with the Vert.x toolkit. 
-To illustrate the Vert.x event loop, it features
+It features
 two processes running simultaneously. One process (`vertx.setPeriodic()`) 
 writes a message to the
 console every two seconds, while the other (`vertx.createHttpServer()`) 
-servers requests on HTTP port 8080. 
+serves requests on HTTP port 8080. 
 
 ## The code
 
