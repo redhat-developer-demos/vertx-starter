@@ -4,8 +4,10 @@
 
 ## Overview
 
-This is a simple application to get you started with the Vert.x toolkit. 
-It features
+This is a simple application to get you started with the Vert.x toolkit.
+It is a companion to the tutorial [Reactica: reactive programming and Vert.x](https://developers.redhat.com/coderland/reactive/). 
+
+The code features
 two processes running simultaneously. One process (`vertx.setPeriodic()`) 
 writes a message to the
 console every two seconds, while the other (`vertx.createHttpServer()`) 
@@ -110,7 +112,7 @@ independently of each other.
 
 ## The Reactica roller coaster
 
-Coderland's [Reactica roller coaster](https://developers.redhat.com/coderland/reactive)
+Coderland's [Reactica: reactive programming and Vert.x tutorial](https://developers.redhat.com/coderland/reactive)
 features a complete, sophisticated example of a system 
 of reactive Vert.x microservices that work together. 
 
@@ -120,27 +122,7 @@ of reactive Vert.x microservices that work together.
 
 :clapper: [VIDEO: An overview of the Reactica roller coaster](https://youtu.be/)
 
-### Part 1: An introduction to reactive programming and Vert.x 
-
-:page_facing_up: [ARTICLE: Part 1: An introduction to reactive programming and Vert.x](https://developers.redhat.com/coderland/reactive/reactive-intro)
-
-:clapper: [VIDEO: Part 1: An introduction to reactive programming and Vert.x](https://youtu.be/)
-
-### Part 2: Building a reactive system
-
-:page_facing_up: [ARTICLE: Part 2: Building a reactive system](https://developers.redhat.com/coderland/reactive/building-a-reactive-system/)
-
-:clapper: [VIDEO: Part 2: Building a reactive system](https://youtu.be/)
-
-### Part 3: A reactive system in action
-
-:page_facing_up: [ARTICLE: Part 3: A reactive system in action](https://developers.redhat.com/coderland/reactive/reactive-system-in-action/)
-
-:clapper: [VIDEO: Part 3: A reactive system in action](https://youtu.be/)
-
-## Other useful links
-
-:book: Clement Escoffier's excellent book [Building Reactive Microservices in Java](https://developers.redhat.com/books/building-reactive-microservices-java/old/), available for free from [the Red Hat Developer Program](https://developers.redhat.com/)
+https://developers.redhat.com/books/building-reactive-microservices-java/), available for free from [the Red Hat Developer Program](https://developers.redhat.com/)
 
 :page_facing_up: Andre Staltz's [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
 
