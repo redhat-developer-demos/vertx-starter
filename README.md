@@ -112,7 +112,7 @@ independently of each other.
 
 ## The Reactica roller coaster
 
-Coderland's [Reactica: reactive programming and Vert.x tutorial](https://developers.redhat.com/coderland/reactive)
+Coderland's tutorial [Reactica: reactive programming and Vert.x](https://developers.redhat.com/coderland/reactive)
 features a complete, sophisticated example of a system 
 of reactive Vert.x microservices that work together. 
 
@@ -122,7 +122,7 @@ of reactive Vert.x microservices that work together.
 
 :clapper: [VIDEO: An overview of the Reactica roller coaster](https://youtu.be/)
 
-https://developers.redhat.com/books/building-reactive-microservices-java/), available for free from [the Red Hat Developer Program](https://developers.redhat.com/)
+:book: Clement Escoffier's excellent book [Building Reactive Microservices in Java](https://developers.redhat.com/books/building-reactive-microservices-java/), available for free from [the Red Hat Developer Program](https://developers.redhat.com/)
 
 :page_facing_up: Andre Staltz's [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
 
